@@ -43,7 +43,7 @@ The referral program offers **$0.25 per new signup for your first 20 signups**, 
 ## Run it
 
 ```sh
-git clone https://github.com/dederesa02/Make-fun-guide.git .
+git clone https://github.com/dederesa02/Make-fun-guide.git
 ```
 
 <sub>Entered on [make.fun](https://make.fun/?ref=vyzche6d&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
